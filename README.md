@@ -1,16 +1,95 @@
-# React + Vite
+<div align="center">
+  <div>
+    <img src="https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  <h3 align="center">Interactive 3D Portfolio Website</h3>
 
-Currently, two official plugins are available:
+  
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
-## React Compiler
+- Three.js
+- React Three Fiber
+- Drei
+- GSAP
+- Tailwind CSS
+- Vite
+- React 19
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## <a name="features">🔋 Features</a>
 
-## Expanding the ESLint configuration
+### Features of the 3D Portfolio Project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 Animated 3D models and reveal animations
+
+👉 Realistic lighting and shadows
+
+👉 GSAP-powered scroll interactions
+
+👉 Responsive design with Tailwind CSS and Flexbox/Grid
+
+👉 Micro Interactions
+
+👉 Multi-section layout (About, Projects, Contact)
+
+👉 Mobile optimized 3D experience
+
+and many more, including code architecture and reusability.
+
+## <a name="quick-start">🤸 Quick Start</a>
+
+Follow these steps to set up the project locally on your machine.
+
+**Prerequisites**
+
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/KomalSinha18/3d-portfolio.git
+```
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Set Up Environment Variables**
+
+Create a new file named `.env` in the root of your project and add the following content:
+
+```env
+VITE_APP_EMAILJS_SERVICE_ID=
+VITE_APP_EMAILJS_TEMPLATE_ID=
+VITE_APP_EMAILJS_PUBLIC_KEY=
+```
+
+Replace the placeholder values with your actual **[EmailJS](https://www.emailjs.com/)** credentials.
+
+**Running the Project**
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173/) in your browser to view the project.
+
+
+## 📬 Contact
+
+- Komal Sinha
+- Email: komalsinha1811@gmail.com
+- LinkedIn: [Komal Sinha](https://www.linkedin.com/in/komalsinha18/)
+- GitHub: [KomalSinha18](https://github.com/KomalSinha18)
