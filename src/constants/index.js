@@ -144,8 +144,8 @@ const expCards = [
   {
     review:
       "Komal brought exceptional creativity and full-stack expertise to the team, optimizing web application performance and delivering scalable solutions with modern technologies.",
-    imgPath: "/images/exp1.png",
-    logoPath: "/images/logo1.png",
+    imgPath: "/images/Remassis.png",
+    logoPath: "/images/Remassis.png",
     title: "Full Stack Developer — Remassis",
     date: "December 2024 – Present",
     responsibilities: [
@@ -159,8 +159,8 @@ const expCards = [
   {
     review:
       "Komal consistently delivered high-quality, production-ready code and played a key role in improving application performance, deployment workflows, and UI consistency across projects.",
-    imgPath: "/images/exp2.png",
-    logoPath: "/images/logo2.png",
+    imgPath: "/images/siteup.jpg",
+    logoPath:  "/images/siteup.jpg",
     title: "Full Stack Developer — Siteup",
     date: "April 2022 – November 2024",
     responsibilities: [
