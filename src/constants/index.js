@@ -96,7 +96,7 @@ const techStackImgs = [
   },
   {
     name: "Python Developer",
-    imgPath: "/images/logos/python.svg",
+    imgPath: "/images/logos/nextjs.png",
   },
   {
     name: "Backend Developer",
@@ -104,7 +104,7 @@ const techStackImgs = [
   },
   {
     name: "Interactive Developer",
-    imgPath: "/images/logos/three.png",
+    imgPath: "/images/logos/tailwind.png",
   },
   {
     name: "Project Manager",
@@ -137,12 +137,7 @@ const techStackIcons = [
     scale: 0.05,
     rotation: [0, 0, 0],
   },
-  {
-    name: "Project Manager",
-    modelPath: "/models/git-svg-transformed.glb",
-    scale: 0.05,
-    rotation: [0, -Math.PI / 4, 0],
-  },
+
 ];
 
 const expCards = [
